@@ -1,0 +1,50 @@
+#portfolio {
+    background-color: black;
+    margin-top: 1.5em;
+
+}
+
+#portfolio h2 {
+    color: white;
+    
+}
+
+#P2 {
+    margin-top: 2.5em;
+}
+
+#contact-section {
+    background-color: black;
+    margin-top: 1.5em;
+
+}
+#contact-section h2 {
+    color: white;
+    
+}
+
+#contact-note {
+   
+    margin-top: 2.5em;
+
+}
+#footer {
+    background-color: black;
+}
+#social-links {
+    margin: 15px 15px;
+}
+
+#copyright {
+    padding: 15px 15px;
+}
+
+.networks {
+    margin: 0 20px 0 20px;
+    color: white;
+  }
+
+.navbar-fixed-top {
+	
+	position: fixed;
+}
